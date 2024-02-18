@@ -1,0 +1,91 @@
+{
+    "Header.Item1": "About me",
+    "Header.Item2": "Experience",
+    "Header.Item3": "Projects",
+    "Header.Item4": "Contact",
+    "Header.cvBtn": "Resume",
+    "Header.cvName": "resume.pdf",
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": "I have <span class='underline'>5+ years of experience</span> developing systems, interfaces, and technological solutions to make the web a better place. I am kneen to write clean, reusable, and scalable code in <span class='underline'>Angular, JavaScript and jQuery</span> along with good practices and development standards.",
+    "Banner.ActionBtn": "Get in touch",
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "In my <span class='underline'>5+ years as a developer</span>, I try to learn each day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>e2e automated tests,</span><span class='underline'>performing continuous integration</span> .I have led teams having empathy, motivating team mates, setting plans and implementing the goals together.",
+        "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
+        "Following is on overview of my work experience"
+    ],
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [
+        {
+            "Tab": "VMware",
+            "Title": "Web developer",
+            "Date": "Nov 2019 - Present",
+            "Description": [
+                "Developed and maintained web applications according to client briefs and added some exciting features too.",
+                "Developed web products by coding wireframes into elements that user can interact with, using Angular.",
+                "Worked with UX Designers and backend developers to meet project goals and create effective user experience.",
+                "Specified style guides for JavaScript, jQuery, SCSS and Angular to achieve consistent coding practices.",
+                "Adding unit test cases for projects having minimum coverage of 80%.",
+                "Worked on increasing accessibility presence on pages to more than 90%."
+            ]
+        },
+        
+        {
+            "Tab": "Spectral Insights",
+            "Title": "Software Engineer",
+            "Date": "July 2018 - Sept 2019",
+            "Description": [
+                "Implementing continuous improvements, working on frontend.",
+                "Creating platforms with Angular, Bootstrap, programmed with functional, reactive, and object-oriented programming paradigms.",
+                "Wrote automated test scripts to increase the effectiveness, efficiency and coverage of software testing using Protractor along with Selenium reducing manual testing by 80%",
+                "Worked on requirement analysis, logging defects and preparing test reports to maintain a track of project state.",
+                "Assisted in the training new developers."
+            ]
+        }
+    ],
+    "FeatureProjects.Title": "Projects that I was a part of",
+    "FeatureProjects.Label": "Featured Project",
+    "FeatureProjects.Projects": [
+        {
+            "Title": "Annotating slides",
+            "Description": "Web application to show <span class='underline'>scanned blood-smear slides</span> on system and helping doctors to <span class='underline'>annotate the image</span> and classify it various categories.",
+            "imgs": [
+                "assets/images/school/annotate.png"
+            ],
+            "Technologies": [
+                "AngularJS",
+                "annotation.js",
+                "Bootstrap"
+            ]
+        },
+        {
+            "Title": "Testify",
+            "Description": "An application to create dynamic tests for students for various subjects",
+            "imgs": [
+                "assets/images/bbm/testify.png"
+            ],
+            "Technologies": [
+                "JavaScript",
+                "CSS",
+                "HTML",
+                "Bootstrap"
+            ]
+        },
+        {
+            "Title": " Plot it on",
+            "Description": " An application to pl0t data read from JSON in the form of graph choosen by user from the user",
+            "imgs": [
+                "assets/images/mazhr/plot.png"
+            ],
+            "Technologies": [
+                "Angular",
+                "Chart.js",
+                "Clarity"
+            ]
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Btn": "Say Hello"
+}
